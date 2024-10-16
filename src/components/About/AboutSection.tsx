@@ -72,7 +72,7 @@ export default function AboutSection() {
             </h3>
             <h4>
               Mentoor.io
-              <span>June 2024 - September 2024</span>
+              <span>Jun 2024 - Sep 2024</span>
             </h4>
             <div className="description">
               My time at Mentoor.io was a crucial step in turning my academic
