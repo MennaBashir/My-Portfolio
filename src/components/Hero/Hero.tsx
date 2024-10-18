@@ -39,7 +39,7 @@ const Hero = () => {
           <motion.div className="buttons" variants={textVarient}>
             <motion.button variants={textVarient}>
               <a
-                href="https://drive.google.com/file/d/1df5uTdJUNkIeC7ER5-AyHB4vyHgekjcq/view?usp=sharing"
+                href="https://drive.google.com/file/d/1oR1mILZrq7ib7r5HOVbMzXLBFsOaw_jf/view?usp=sharing"
                 target="_blank"
               >
                 View My Resume
