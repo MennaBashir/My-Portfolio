@@ -51,6 +51,6 @@ export const myProjects = [
     title: "Arab Accountant Blog",
     description:
       "Web application designed to share accounting knowledge, news, and articles for Arabic-speaking accountants and financial professionals... ",
-    link: "https://mennabashir.github.io/Arab_Accountant_Blog/",
+    link: "https://arab-accountant.netlify.app/",
   },
 ];
